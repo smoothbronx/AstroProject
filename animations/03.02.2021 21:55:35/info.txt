@@ -1,0 +1,21 @@
+{
+    "data": {
+        "info": {
+            "start_time": "03.02.2021 21:55:35"
+        },
+        "result": {
+            "lead_time": "67.4622s"
+        },
+        "entered_params": {
+            "g": 9.81,
+            "start_angle": 0.9599310885968813,
+            "object_mass": 2,
+            "start_power": 35,
+            "start_coords": {
+                "x": 0,
+                "y": 0
+            },
+            "air_resistance": 0.8
+        }
+    }
+}
